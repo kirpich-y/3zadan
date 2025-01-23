@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table th {
+    padding: 5px;
+    background: rgb(146, 146, 146);
+    color: white;
+}
+
+.tr1 td {
+    background: rgb(255, 240, 243);
+}
+
+.tr2 td {
+    background: rgb(224, 245, 255);
+}
